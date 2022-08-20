@@ -39,3 +39,29 @@
 .read-the-docs {
   color: #888;
 } */
+
+.App {
+  height: 80px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  /* border: 1px solid red; */
+}
+
+.App-image {
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  border: 1px solid white;
+}
+
+.App-tittle{
+  margin-left: 15px;
+  /* border: 1px solid blue; */
+  flex:1;
+}
+
+.App-ittens{
+ 
+
+}

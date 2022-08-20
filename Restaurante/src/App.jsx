@@ -27,7 +27,12 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p> */}
-        <h1>TESTE</h1>
+        <img className="App-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8axo2TU9Oj4uG8D9QwjgsIz7bbMFxBLJ3Q&usqp=CAU" alt="Icone" />
+        <h1  className="App-tittle"><i>Rest.</i></h1>
+        <div className='App-itens'>
+          <a href=""><i>Cardápio</i></a>
+        </div>
+        
     </div>
   )
 }

@@ -1,11 +1,11 @@
 import { useState } from 'react'
-import './Main-div.css'
+import './Footer-div.css'
 
-function Main() {
+function Footer() {
     const [count, setCount] = useState(0)
   
     return (
-      <div className="Main">
+      <div className="Footer">
         <div className="footer-dark">
             <footer>
                 <div className="container">
@@ -34,5 +34,5 @@ function Main() {
     )
   }
   
-  export default Main
+  export default Footer
   
